@@ -7,13 +7,16 @@
 
 ## 🙋‍♂️ About Me
 
+<!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
 - 🌱 I’m currently learning **Laravel**
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
+
 - 📫 How to reach me **dhivasdharma@gmail.com**
 
+<!-- - ⚡ Fun fact **I play games and go to the GYM very often.** -->
 <br>
 
 ## 🚀 Languages and Tools:
@@ -27,8 +30,6 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <!-- <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>  -->
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://laragon.org/" target="_blank"> <img src="https://img.icons8.com/color/344/postgreesql.png" alt="mongodb" width="48" height="48"/> </a>
     <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/452/laravel.png" alt="mongodb" width="48" height="48"/> </a>  
@@ -42,12 +43,17 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/dhivasds/github-readme-stats"><img alt="Dhivas Dharma Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhivasds&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/dhivasds/github-readme-stats"><img alt="Dhivas Dharma Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhivasds&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/dhivasds/"><img alt="Dhivas Dharma Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhivasds&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/dhivasds/"><img alt="Dhivas Dharma Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhivasds&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<br>
+<br/>
+<br/>
+
+<a href="https://github.com/dhivasds/"><img alt="dhivasds's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dhivasds&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
 
 
 ## Connect with me:
@@ -59,5 +65,3 @@
 
 </p>
 
-
-<!-- SourGITHUB : https://github.com/SubhamRaoniar28 -->
