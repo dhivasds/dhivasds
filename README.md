@@ -13,7 +13,10 @@
 
 <br/>
 
-<a href="https://github.com/dhivasds/"><img alt="dhivasds's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dhivasds&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhivasds&theme=react&date_format=j%20M%5B%20Y%5D&background=5BCDEC)](https://git.io/streak-stats)
+
+
 
 <br/>
 
