@@ -14,8 +14,7 @@
 <br/>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhivasds&theme=react&date_format=j%20M%5B%20Y%5D&background=)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhivasds&theme=react&date_format=j%20M%5B%20Y%5D&background=DD4E8B00)](https://git.io/streak-stats)
 
 
 <br/>
